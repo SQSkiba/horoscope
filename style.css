@@ -1,0 +1,21 @@
+body {
+    font-family: "Times New Roman";
+    vertical-align: top;
+    background-color: powderblue;
+    position:relative
+
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+h2 {
+    color: darkblue;
+}
+h3 {
+    text-align: center;
+    color: darkblue;
+}
+#Names, #Birthday, #Birthmonth {
+    color: darkblue;
+}
